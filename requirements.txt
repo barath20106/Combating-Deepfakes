@@ -1,7 +1,0 @@
-flask
-opencv-python
-mediapipe
-tensorflow
-numpy
-imutils
-flask_socketio
